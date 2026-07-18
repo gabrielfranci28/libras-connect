@@ -1,4 +1,4 @@
-# Libras Connect (Libras+)
+# Libras Connect 
 
 ## 1. Sobre o Projeto
 
