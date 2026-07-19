@@ -39,6 +39,10 @@ Revisar todo o projeto verificando:
 * Fila local de mensagens offline, com envio automático ao reconectar.
 * Liberação automática de conteúdo pago após confirmação do Pix.
 * Publicação de fotos, vídeos e textos na Comunidade, com "Joinha", "Não joinha", comentar e favoritar.
+* O autor da publicação pode editar ou excluir seu próprio post.
+* É possível responder a comentários, com suporte a reações de "Joinha" e "Não joinha".
+* Toque longo (apertar e segurar) no comentário de terceiros abre o menu "Denunciar" e "Ocultar".
+* Toque longo no próprio comentário abre o menu "Editar" e "Excluir".
 * Criação de grupos (nome, quantidade de pessoas, aberto ou privado).
 * Listagem de Eventos da comunidade (local, data, tipo).
 * Criação de página de aulas pagas ou gratuitas.
