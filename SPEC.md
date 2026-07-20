@@ -118,6 +118,13 @@
   * Por padrão, a publicação aparece borrada com o botão "Clique para ver".
   * Ela só será exibida diretamente e sem borrão para os usuários que alterarem a opção em Privacidade para "Sem censura".
 
+### 6.4 Direitos de Acessibilidade
+
+* Ao apertar em "Direitos de acessibilidade", abre uma tela de soluções com:
+  * **Guia de Direitos:** Informações claras sobre leis de acessibilidade e Libras.
+  * **Modelos Prontos:** Opção para gerar/baixar pedidos formais de intérprete para hospitais, faculdades ou órgãos públicos.
+  * **Onde Buscar Ajuda:** Orientações e canais para denunciar falta de acessibilidade.
+
 ### 6.1 Criar Grupos
 
 * Ao apertar em "Criar grupos", aparece a pergunta: "O que você busca?".
