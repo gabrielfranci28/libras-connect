@@ -47,6 +47,7 @@
 * Seção ÁLBUNS logo abaixo de "LOCALIZAÇÃO".
 * Espaço para 6 álbuns/fotos.
 * Botão: "+ Adicionar".
+* Ao abrir fotos dos álbuns, existem botões "< anterior" e "> próximo".
 
 ### 4.2 Visualização de Fotos (perfil, álbuns e mensagens)
 
@@ -57,8 +58,8 @@
 
 ### 4.4 Amigos
 
-* **Com amigos:** Quando uma solicitação de amizade for aceita, deve exibir o ícone de perfil e a quantidade de amigos (exemplo: **👥 1 amigo**).
-* **Sem amigos:** Se o usuário não tiver nenhuma amizade, deve exibir o texto: **"Nenhum amigo"**.
+* **Com amigos:** Quando um pedido de "Solicitar conexão" for aceito, deve exibir o ícone de perfil e a quantidade de amigos (exemplo: **👥 1 amigo**).
+* **Sem amigos:** Se o usuário não tiver nenhum amigo, deve exibir o texto: **"Nenhum amigo"**.
 
 ### 4.5 Favorito
 
