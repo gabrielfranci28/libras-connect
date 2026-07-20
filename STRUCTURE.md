@@ -31,7 +31,7 @@
 ## 5. Tema
 
 * Tema padrão: sempre começa em modo branco (claro), mesmo que o celular esteja em tema escuro.
-* Modo escuro: disponível apenas se ativado pelo usuário, dentro da tela "Perfil".
+* Modo escuro: disponível apenas se ativado pelo usuário, dentro de Configurações (acessível pelo Perfil).
 * Restante do app permanece igual, independente do tema.
 
 ## 6. Transições entre Abas
