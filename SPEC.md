@@ -123,7 +123,9 @@
 * Ao apertar em "Direitos de acessibilidade", abre uma tela de soluções com:
   * **Guia de Direitos:** Informações claras sobre leis de acessibilidade e Libras.
   * **Modelos Prontos:** Opção para gerar/baixar pedidos formais de intérprete para hospitais, faculdades ou órgãos públicos.
-  * **Onde Buscar Ajuda:** Orientações e canais para denunciar falta de acessibilidade.
+  * **Onde Buscar Ajuda:** Orientações e canais para denunciar falta de acessibilidade. 
+* **Vídeos com Intérprete de Libras:** Conteúdos em vídeo gratuitos com tradução em Libras para explicar direitos e soluções.
+  * **Apoio da Comunidade:** Intérpretes voluntários podem colaborar gravando vídeos, com opção de receber apoio/gorjeta voluntária dos usuários.
 
 ### 6.1 Criar Grupos
 
