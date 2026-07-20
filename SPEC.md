@@ -227,7 +227,16 @@
 * Quando alguém tentar acessar um perfil com a opção de bloqueio ativada, a tela aparece desenhada como perfil privado.
 * Quando o perfil aceitar a solicitação de amizade, ele fica aberto apenas para Amigos.
 
-## 11. Moderação e Denúncias
+# 11. Configurações
+
+Ao clicar em **Configurações** (dentro do Perfil), abre a tela principal de ajustes do aplicativo:
+
+* **Aparência / Tema:** Alternar entre **Modo Escuro** (Dark Mode) e **Modo Claro** (Light Mode), ou seguir o Padrão do Sistema.
+* **Notificações:** Ativar ou desativar alertas de mensagens, solicitações de amizade, eventos e avisos do grupo.
+* **Sons do Aplicativo:** Ativar ou desativar os sons de envio de mensagem, cliques e notificações.
+* **Acessibilidade de Texto:** Ajustar o tamanho da fonte (texto normal, grande ou extra grande) para facilitar a leitura.
+
+## 12. Moderação e Denúncias
 
 * Em todos os perfis, o menu de 3 pontos apresenta as opções Bloquear e Denunciar.
 * Ao confirmar uma denúncia, a moderação analisa com cuidado e remove apenas o conteúdo ou a conta de forma justa, sem injustiças.
@@ -235,7 +244,7 @@
 * Regra de segurança do chat: se alguém enviar mensagens com falta de respeito ou conteúdo proibido, e receber 5 denúncias reais validadas por moderação humana, a conta será excluída permanentemente.
 * Tudo deve funcionar corretamente, sem travar.
 
-## 12. Pagamentos (Monetização via Pix)
+## 13. Pagamentos (Monetização via Pix)
 
 ### 12.1 Regra Geral (aplica-se a todos os recursos pagos)
 
@@ -262,13 +271,13 @@
 7. Desbloquear álbum de vídeos em Libras de outra pessoa — R$ 4,00 por álbum.
 8. Verificação de foto real por IA — R$ 3,00 vitalício.
 
-## 13. Inteligência Artificial (OpenAI)
+## 14. Inteligência Artificial (OpenAI)
 
 * Whisper: áudio → texto.
 * GPT-4o: vídeo → texto.
 * Atenção: a função de tradução (Libras ↔ Português) é um experimento em beta e pode conter erros. O app deve exibir na tela do usuário o aviso: "Funciona como experimento, pode conter erros na tradução."
 
-## 14. Regras Técnicas Gerais
+## 15. Regras Técnicas Gerais
 
 * Banco de dados simples para usuários, pagamentos e logs.
 * Fotos e vídeos armazenados em Cloudinary.
