@@ -54,18 +54,22 @@
   1. **Zoom** — deve funcionar: pode aumentar e diminuir a imagem.
   2. **Baixar** — deve funcionar: pode salvar a imagem no celular.
   3. **Denunciar** — deve funcionar: botão para avisar quando houver nudez ou conteúdo errado (a verificação de nudez é feita via denúncia dos usuários, para a moderação analisar).
-* Ao abrir fotos dos álbuns, existem botões "< anterior" e "> próximo".
 
-### 4.3 Favorito
+### 4.4 Amigos
+
+* **Com amigos:** Quando uma solicitação de amizade for aceita, deve exibir o ícone de perfil e a quantidade de amigos (exemplo: **👥 1 amigo**).
+* **Sem amigos:** Se o usuário não tiver nenhuma amizade, deve exibir o texto: **"Nenhum amigo"**.
+
+### 4.5 Favorito
 
 * Opção "Favorito" disponível no perfil.
 * Ao apertar nela, aparece um espaço para escrever, que pode estar vazio.
 
-### 4.4 Acesso à tela de Pagamentos
+### 4.6 Acesso à tela de Pagamentos
 
 * Ao clicar (dentro do Perfil), abre a tela completa dos pagamentos (ver seção 12).
 
-### 4.5 Acesso à tela de Privacidade
+### 4.7 Acesso à tela de Privacidade
 
 * Ao clicar (dentro do Perfil), abre a tela inteira das configurações de Privacidade (ver seção 10).
 
