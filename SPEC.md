@@ -177,24 +177,25 @@
 
 ## 9. Notificações
 
-* Tela usada apenas para avisos: quando alguém envia um pedido de amizade, ou quando aceitam um pedido enviado.
-* Depois que o pedido é aceito e vira conexão, a pessoa aparece na aba "Notificações".
-* Interações: Quando alguém der "Joinha", "Não joinha", comentar ou favoritar, o usuário recebe uma pequena bolinha vermelha de notificação no ícone.
-* Grupos: Na criação de grupos (com nome, quantidade de pessoas, aberto ou privado), quando um administrador aprovar ou recusar a entrada de alguém, o usuário recebe uma notificação avisando o resultado.
+* **Avisos de amizade:** Notifica quando o usuário recebe uma solicitação ou quando uma "Solicitação enviada" é aceita por outra pessoa.
+* **Aba Notificações:** Exibe a lista de atualizações e confirmações de novas amizades.
+* **Interações:** Quando alguém der "Joinha", "Não joinha", comentar ou favoritar, o usuário recebe uma pequena bolinha vermelha de notificação no ícone.
+* **Grupos:** Na criação de grupos (com nome, quantidade de pessoas, aberto ou privado), quando um administrador aprovar ou recusar a entrada de alguém, o usuário recebe uma notificação avisando o resultado.
 
 ## 10. Privacidade
 
 * Ao clicar (dentro do Perfil), abre a tela inteira das configurações de Privacidade.
-* Opções configuráveis (Todos, Conexões, Bloquear):
-  1. Quem pode entrar no seu perfil.
-  2. Quem pode te enviar mensagem.
-  3. Quem pode te enviar uma foto na mensagem.
-  4. Quem pode te enviar um vídeo na mensagem.
-  5. Quem pode te chamar de vídeo.
+* Opções configuráveis (Público, Amigos, Somente eu):
+  1. Quem pode ver sua lista de amigos.
+  2. Quem pode entrar no seu perfil.
+  3. Quem pode te enviar mensagem.
+  4. Quem pode te enviar uma foto na mensagem.
+  5. Quem pode te enviar um vídeo na mensagem.
+  6. Quem pode te chamar de vídeo.
 * Tudo deve funcionar de verdade.
 * Se escolher a opção "Bloquear" para chamada de vídeo, quando alguém tentar te chamar, aparece o aviso: "Esta opção está bloqueada".
 * Quando alguém tentar acessar um perfil com a opção de bloqueio ativada, a tela aparece desenhada como perfil privado.
-* Quando o perfil aceitar o pedido de solicitação, ele fica aberto apenas para Conexões.
+* Quando o perfil aceitar a solicitação de amizade, ele fica aberto apenas para Amigos.
 
 ## 11. Moderação e Denúncias
 
