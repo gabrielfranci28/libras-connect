@@ -56,21 +56,32 @@
   2. **Baixar** — deve funcionar: pode salvar a imagem no celular.
   3. **Denunciar** — deve funcionar: botão para avisar quando houver nudez ou conteúdo errado (a verificação de nudez é feita via denúncia dos usuários, para a moderação analisar).
 
-### 4.4 Amigos
+### 4.3 Amigos
 
-* **Com amigos:** Quando a "Solicitação enviada" for aceita pela outra pessoa, deve exibir o ícone de perfil e a quantidade de amigos (exemplo: **👥 1 amigo**).
-* **Sem amigos:** Se o usuário não tiver nenhum amigo, deve exibir o texto: **"Nenhum amigo"**.
+* **Quem pode ver:** 
+  * O próprio usuário pode ver a sua lista e quantidade de amigos no seu perfil.
+  * Outros usuários que visitarem o perfil também podem ver essa quantidade/lista de amigos.
 
-### 4.5 Favorito
+* **Exibição na tela:**
+  * **Com amigos:** Quando a "Solicitação enviada" for aceita, deve exibir o ícone de perfil e a quantidade de amigos (exemplo: **👥 1 amigo**).
+  * **Sem amigos:** Se o usuário não tiver nenhum amigo, deve exibir o texto: **"Nenhum amigo"**.
+
+* **Opções da Lista de Amigos (Menu de 3 pontos):**
+  * Ao lado de cada amigo na lista, deve existir um botão de **3 pontos (...)** com as opções:
+    1. **Excluir amigo:** Remove a pessoa da lista de amizades.
+    2. **Bloquear:** Impede a pessoa de ver o perfil, enviar mensagens ou novas solicitações.
+    3. **Denunciar:** Abre a opção para reportar o perfil para a moderação analisar.
+
+### 4.4 Favorito
 
 * Opção "Favorito" disponível no perfil.
 * Ao apertar nela, aparece um espaço para escrever, que pode estar vazio.
 
-### 4.6 Acesso à tela de Pagamentos
+### 4.5 Acesso à tela de Pagamentos
 
 * Ao clicar (dentro do Perfil), abre a tela completa dos pagamentos (ver seção 12).
 
-### 4.7 Acesso à tela de Privacidade
+### 4.6 Acesso à tela de Privacidade
 
 * Ao clicar (dentro do Perfil), abre a tela inteira das configurações de Privacidade (ver seção 10).
 
