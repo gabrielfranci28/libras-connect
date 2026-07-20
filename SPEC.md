@@ -163,7 +163,6 @@
 
 * Tela usada apenas para avisos: quando alguém envia um pedido de amizade, ou quando aceitam um pedido enviado.
 * Depois que o pedido é aceito e vira conexão, a pessoa aparece na aba "Notificações".
-* Quando alguém envia mensagem para outra pessoa, também aparece um aviso na aba "Notificações".
 * Interações: Quando alguém der "Joinha", "Não joinha", comentar ou favoritar, o usuário recebe uma pequena bolinha vermelha de notificação no ícone.
 * Grupos: Na criação de grupos (com nome, quantidade de pessoas, aberto ou privado), quando um administrador aprovar ou recusar a entrada de alguém, o usuário recebe uma notificação avisando o resultado.
 
