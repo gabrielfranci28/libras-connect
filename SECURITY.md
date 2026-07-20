@@ -22,7 +22,6 @@
 * Regra de segurança do chat: se alguém enviar mensagens com falta de respeito ou conteúdo proibido e receber 5 denúncias reais validadas por moderação humana, a conta será excluída permanentemente.
 * Se alguém ensina sinais para enganar ou aplicar golpes na Comunidade e recebe denúncias, o conteúdo é removido.
 * A plataforma deve proteger todo o conteúdo e todos os usuários.
-* A verificação de nudez em fotos é feita via denúncia dos usuários, analisada pela moderação (botão "Denunciar" disponível ao visualizar fotos de perfil, álbuns ou mensagens).
 * Tudo deve funcionar corretamente, sem travar.
 
 ## 4. Estados de Perfil
