@@ -207,7 +207,7 @@
 * Ao clicar (dentro do Perfil), abre a tela inteira das configurações de Privacidade.
 * Opções configuráveis (Público, Amigos, Somente eu):
   1. Quem pode ver sua lista de amigos.
-  2. 2. Privatização do Perfil: Perfil Público ou Perfil Privado.
+  2. Privatização do Perfil: Perfil Público ou Perfil Privado.
   3. Quem pode entrar no seu perfil.
   4. Quem pode te enviar mensagem.
   5. Quem pode te enviar uma foto na mensagem.
