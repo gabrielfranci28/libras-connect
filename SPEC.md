@@ -131,7 +131,10 @@
 
 * Ao apertar em "Criar grupos", aparece a pergunta: "O que você busca?".
 * Abaixo, um campo para escrever (vazio ou preenchido).
-* Ao lado, os itens: nome do grupo, quantidade de pessoas, opção de escolher se o grupo será aberto ou privado.
+* Ao lado, os itens: nome do grupo, quantidade de pessoas, opção de escolher se o grupo será aberto ou privado. 
+* **Visualização de Membros:** 
+    * Em grupos **abertos**, qualquer usuário pode visualizar a lista de membros do grupo.
+    * Em grupos **privados**, apenas os membros participantes podem ver a lista de quem está no grupo.
 
 ### 6.2 Eventos da Comunidade
 
