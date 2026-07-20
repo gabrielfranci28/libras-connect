@@ -131,6 +131,10 @@
 ### 6.3 Aulas Pagas ou Gratuitas
 
 * Ao apertar em "Aulas pagas ou gratuitas", se o usuário for fluente, ele pode criar sua própria página de aulas, definindo nome da página, valor e demais informações.
+* **Segurança e Proteção contra Golpes:**
+  * **Sistema de Avaliação:** Alunos podem avaliar a aula com notas (1 a 5 estrelas) e comentários.
+  * **Garantia de Pagamento:** O pagamento das aulas pagas fica retido na plataforma até a conclusão do serviço para proteger o aluno contra golpes.
+  * **Denúncia de Conteúdo Falso:** Botão para denunciar aulas que ensinem sinais incorretos com intenção de enganar ou que apliquem golpes. Caso comprovado, o valor é reembolsado ao aluno e a página é suspensa.
 * Campo de busca com a pergunta: "O que você gostaria de buscar?".
 
 ## 7. Mensagens / Chat
