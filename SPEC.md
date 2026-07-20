@@ -192,6 +192,11 @@
   4. Quem pode te enviar uma foto na mensagem.
   5. Quem pode te enviar um vídeo na mensagem.
   6. Quem pode te chamar de vídeo.
+* **Filtro de Conteúdo Sensível (18+):**
+  * Funcionalidade restrita exclusivamente para contas verificadas como maiores de 18 anos.
+  * Opção configurável pelo usuário: **"Com censura (borrado)"** ou **"Sem censura"**.
+  * **Padrão:** Mídias sensíveis vêm borradas com o botão "Clique para ver".
+  * Se o usuário escolher "Sem censura", as mídias autorizadas para sua faixa etária serão exibidas diretamente.
 * Tudo deve funcionar de verdade.
 * Se escolher a opção "Bloquear" para chamada de vídeo, quando alguém tentar te chamar, aparece o aviso: "Esta opção está bloqueada".
 * Quando alguém tentar acessar um perfil com a opção de bloqueio ativada, a tela aparece desenhada como perfil privado.
