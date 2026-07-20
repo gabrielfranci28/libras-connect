@@ -58,7 +58,7 @@
 
 ### 4.4 Amigos
 
-* **Com amigos:** Quando um pedido de "Solicitar conexão" for aceito, deve exibir o ícone de perfil e a quantidade de amigos (exemplo: **👥 1 amigo**).
+* **Com amigos:** Quando a "Solicitação enviada" for aceita pela outra pessoa, deve exibir o ícone de perfil e a quantidade de amigos (exemplo: **👥 1 amigo**).
 * **Sem amigos:** Se o usuário não tiver nenhum amigo, deve exibir o texto: **"Nenhum amigo"**.
 
 ### 4.5 Favorito
