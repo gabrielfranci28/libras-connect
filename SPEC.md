@@ -85,7 +85,7 @@
 
 * Ao clicar (dentro do Perfil), abre a tela inteira das configurações de Privacidade (ver seção 10).
 
-## 5. Solicitação de Conexão / Início de Conversa
+## 5. Solicitar conexão / Início de Conversa
 
 * Botão "Solicitar conexão": remover somente o ícone/desenho, mantendo o texto do botão.
 * Remover:
