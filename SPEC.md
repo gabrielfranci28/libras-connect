@@ -40,23 +40,37 @@
   2. **Senha\*** — placeholder: "Crie uma senha segura" — com botão de ver/ocultar senha.
 * Adicionar o texto "Política de Privacidade" onde for necessário.
 
-## 4. Perfil
+## 4. "Explorar / Descobrir"
 
-### 4.1 Álbuns
+* **Limpeza de Layout e Novo Fundo (Background):**
+  * Remover os elementos de lista e o layout atual da tela.
+  * O fundo da tela inteira agora deve ser um mapa grande e elegante (como um papel de parede de fundo).
+
+* **Componente de Busca Animado:**
+  * Inserir um campo "Buscar" centralizado na parte inferior ou no meio da tela, envolvido por um card ou "capa" de fundo branco.
+  * **Animação (Interação de Toque):** Quando o usuário tocar na barra de busca, essa "capa branca" deve ter uma animação fluida, deslizando ("voando") para o topo da tela.
+
+* **Exibição de Resultados:**
+  * O movimento dessa capa branca para o topo servirá para abrir espaço.
+  * Ao subir, a área branca deve revelar logo abaixo as listas de Pessoas (resultados da busca ou sugestões) e os Grupos disponíveis para interação.
+
+## 5. Perfil
+
+### 5.1 Álbuns
 
 * Seção ÁLBUNS logo abaixo de "LOCALIZAÇÃO".
 * Espaço para 6 álbuns/fotos.
 * Botão: "+ Adicionar".
 * Ao abrir fotos dos álbuns, existem botões "< anterior" e "> próximo".
 
-### 4.2 Visualização de Fotos (perfil, álbuns e mensagens)
+### 5.2 Visualização de Fotos (perfil, álbuns e mensagens)
 
 * Ao apertar em qualquer foto de perfil, álbuns ou foto enviada em mensagem, ela abre com:
   1. **Zoom** — deve funcionar: pode aumentar e diminuir a imagem.
   2. **Baixar** — deve funcionar: pode salvar a imagem no celular.
   3. **Denunciar** — deve funcionar: botão para avisar quando houver nudez ou conteúdo errado (a verificação de nudez é feita via denúncia dos usuários, para a moderação analisar).
 
-### 4.3 Amigos
+### 5.3 Amigos
 
 * **Quem pode ver:** 
   * O próprio usuário pode ver a sua lista e quantidade de amigos no seu perfil.
@@ -72,20 +86,20 @@
     2. **Bloquear:** Impede a pessoa de ver o perfil, enviar mensagens ou novas solicitações.
     3. **Denunciar:** Abre a opção para reportar o perfil para a moderação analisar.
 
-### 4.4 Favorito
+### 5.4 Favorito
 
 * Opção "Favorito" disponível no perfil.
 * Ao apertar nela, aparece um espaço para escrever, que pode estar vazio.
 
-### 4.5 Acesso à tela de Pagamentos
+### 5.5 Acesso à tela de Pagamentos
 
 * Ao clicar (dentro do Perfil), abre a tela completa dos pagamentos (ver seção 12).
 
-### 4.6 Acesso à tela de Privacidade
+### 5.6 Acesso à tela de Privacidade
 
 * Ao clicar (dentro do Perfil), abre a tela inteira das configurações de Privacidade (ver seção 10).
 
-## 5. Solicitar conexão / Início de Conversa
+## 6. Solicitar conexão / Início de Conversa
 
 * Botão "Solicitar conexão": remover somente o ícone/desenho, mantendo o texto do botão.
 * Remover:
@@ -98,7 +112,7 @@
   3. Fotos e vídeos: usar aspectRatio 1080/1350 com resizeMode "contain" — não usar tamanho fixo em pixels. Isso garante que a imagem apareça inteira em qualquer tamanho de tela, sem cortar, esticar ou diminuir.
   4. Vídeos seguem a mesma regra: exibição completa, com baixar, denunciar, ocultar e desfazer ocultar funcionais.
 
-## 6. Comunidade (antes chamada "Conexões")
+## 7. Comunidade (antes chamada "Conexões")
 
 * Trocar "Conexões" para "Comunidade".
 * Ao publicar algo, aparece a pergunta: "O que você gostaria de colocar?".
