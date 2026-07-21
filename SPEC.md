@@ -222,11 +222,10 @@
 * Opções configuráveis (Público, Amigos, Somente eu):
   1. Quem pode ver sua lista de amigos.
   2. Privatização do Perfil: Perfil Público ou Perfil Privado.
-  3. Quem pode entrar no seu perfil.
-  4. Quem pode te enviar mensagem.
-  5. Quem pode te enviar uma foto na mensagem.
-  6. Quem pode te enviar um vídeo na mensagem.
-  7. Quem pode te chamar de vídeo.
+  3. Quem pode te enviar mensagem.
+  4. Quem pode te enviar uma foto na mensagem.
+  5. Quem pode te enviar um vídeo na mensagem.
+  6. Quem pode te chamar de vídeo.
 * **Filtro de Conteúdo Sensível (18+):**
   * Funcionalidade restrita exclusivamente para contas verificadas como maiores de 18 anos.
   * Opção configurável pelo usuário: **"Com censura (borrado)"** ou **"Sem censura"**.
