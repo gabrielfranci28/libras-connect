@@ -306,13 +306,13 @@ Ao clicar em **Configurações** (dentro do Perfil), abre a tela principal de aj
 7. Desbloquear álbum de vídeos em Libras de outra pessoa — R$ 4,00 por álbum.
 8. Verificação de foto real por IA — R$ 3,00 vitalício.
 
-## 14. Inteligência Artificial (OpenAI)
+## 13. Inteligência Artificial (OpenAI)
 
 * Whisper: áudio → texto.
 * GPT-4o: vídeo → texto.
 * Atenção: a função de tradução (Libras ↔ Português) é um experimento em beta e pode conter erros. O app deve exibir na tela do usuário o aviso: "Funciona como experimento, pode conter erros na tradução."
 
-## 15. Regras Técnicas Gerais
+## 14. Regras Técnicas Gerais
 
 * Banco de dados simples para usuários, pagamentos e logs.
 * Fotos e vídeos armazenados em Cloudinary.
