@@ -17,7 +17,7 @@
 ## 3. Denúncias e Moderação
 
 * Em todos os perfis, o menu de 3 pontos apresenta as opções Bloquear e Denunciar.
-* Ao confirmar uma denúncia, a moderação analisa com cuidado e remove apenas o conteúdo ou a conta de forma justa, sem injustiças.
+* Ao confirmar uma denúncia, a moderação analisa o conteúdo e remove apenas a publicação ou a conta infratora após validação.
 * Se o perfil realmente cometeu infrações e recebeu 5 denúncias válidas, ele é excluído permanentemente.
 * Regra de segurança do chat: se alguém enviar mensagens com falta de respeito ou conteúdo proibido e receber 5 denúncias reais validadas por moderação humana, a conta será excluída permanentemente.
 * Se alguém ensina sinais para enganar ou aplicar golpes na Comunidade e recebe denúncias, o conteúdo é removido.
