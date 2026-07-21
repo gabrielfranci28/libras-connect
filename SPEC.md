@@ -54,23 +54,32 @@
   * O movimento dessa capa branca para o topo servirá para abrir espaço.
   * Ao subir, a área branca deve revelar logo abaixo as listas de Pessoas (resultados da busca ou sugestões) e os Grupos disponíveis para interação.
 
-## 5. Perfil
+## 5. Perfil 
 
-### 5.1 Álbuns
+### 5.1 Publicações no Perfil
+
+* O perfil do usuário exibirá um feed com todo o seu histórico de publicações (textos, fotos e vídeos).
+* **Interações dentro do perfil:** Ao abrir ou visualizar uma publicação dentro do perfil, as seguintes ações devem estar disponíveis:
+  * Desenho de **"Joinha"** (Curtir) e **"Não joinha"** (Não curtir).
+  * Desenho de **Favorito** (Salvar a publicação).
+  * Opção de visualizar e escrever comentários.
+  * O mesmo menu de 3 pontos (Editar/Excluir para o autor, ou Denunciar/Bloquear para visitantes).
+
+### 5.2 Álbuns
 
 * Seção ÁLBUNS logo abaixo de "LOCALIZAÇÃO".
 * Espaço para 6 álbuns/fotos.
 * Botão: "+ Adicionar".
 * Ao abrir fotos dos álbuns, existem botões "< anterior" e "> próximo".
 
-### 5.2 Visualização de Fotos (perfil, álbuns e mensagens)
+### 5.3 Visualização de Fotos (perfil, álbuns e mensagens)
 
 * Ao apertar em qualquer foto de perfil, álbuns ou foto enviada em mensagem, ela abre com:
   1. **Zoom** — deve funcionar: pode aumentar e diminuir a imagem.
   2. **Baixar** — deve funcionar: pode salvar a imagem no celular.
   3. **Denunciar** — deve funcionar: botão para avisar quando houver nudez ou conteúdo errado (a verificação de nudez é feita via denúncia dos usuários, para a moderação analisar).
 
-### 5.3 Amigos
+### 5.4 Amigos
 
 * **Quem pode ver:** 
   * O próprio usuário pode ver a sua lista e quantidade de amigos no seu perfil.
@@ -85,11 +94,6 @@
     1. **Excluir amigo:** Remove a pessoa da lista de amizades.
     2. **Bloquear:** Impede a pessoa de ver o perfil, enviar mensagens ou novas solicitações.
     3. **Denunciar:** Abre a opção para reportar o perfil para a moderação analisar.
-
-### 5.4 Favorito
-
-* Opção "Favorito" disponível no perfil.
-* Ao apertar nela, aparece um espaço para escrever, que pode estar vazio.
 
 ### 5.5 Acesso à tela de Pagamentos
 
