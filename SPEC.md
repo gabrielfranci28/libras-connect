@@ -231,6 +231,8 @@
 
 * Quando um usuário iniciar uma chamada de vídeo, é exibida uma opção para aceitar ou recusar.
 * Quando alguém recusar, avisar: "Ele(a) recusou".
+* **Tempo livre:** A chamada não possui limite de tempo.
+* **Tempo de chamada:** Quando a vídeo-chamada terminar, o tempo total de duração aparece direto no chat como uma mensagem de aviso, para que vocês saibam exatamente quanto tempo durou a conversa.
 
 ## 11. Notificações
 
