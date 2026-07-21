@@ -40,7 +40,7 @@
   2. **Senha\*** — placeholder: "Crie uma senha segura" — com botão de ver/ocultar senha.
 * Adicionar o texto "Política de Privacidade" onde for necessário.
 
-## 4. "Explorar / Descobrir"
+## 4. "Descobrir"
 
 * **Limpeza de Layout e Novo Fundo (Background):**
   * Remover os elementos de lista e o layout atual da tela.
