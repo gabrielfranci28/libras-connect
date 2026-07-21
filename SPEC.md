@@ -111,6 +111,8 @@
   * Publicações apenas de texto.
 * Interações nas publicações: desenhos de "Joinha" e "Não joinha", opção de comentar, desenho de favorito, possibilidade de escrever legenda abaixo da foto ou vídeo.
 * Todas as fotos, vídeos e textos publicados sempre têm um menu de 3 pontos.
+* **Para o próprio autor do post:** exibe as opções **Editar** (permite editar a legenda/texto) e **Excluir** (exibe confirmação antes de apagar).
+  * **Para outros usuários:** exibe as opções **Denunciar** e **Bloquear**.
 * Se alguém ensina sinais para enganar ou aplicar golpes e recebe denúncias, o conteúdo é removido.
 * **Publicação de Mídias e Detecção Automática (18+):**
   * Quando um usuário publicar uma foto ou vídeo contendo mídia sensível (18+), o sistema/IA deve detectar e aplicar automaticamente a tag de Mídia Sensível (censura borrada).
