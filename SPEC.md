@@ -65,12 +65,15 @@
   * Opção de visualizar e escrever comentários.
   * O mesmo menu de 3 pontos (Editar/Excluir para o autor, ou Denunciar/Bloquear para visitantes).
 
-### 5.2 Álbuns
+### 5.2 Álbuns (Fotos e Vídeos)
 
 * Seção ÁLBUNS logo abaixo de "LOCALIZAÇÃO".
-* Espaço para 6 álbuns/fotos.
-* Botão: "+ Adicionar".
-* Ao abrir fotos dos álbuns, existem botões "< anterior" e "> próximo".
+* **Cabeçalhos e Organização:**
+  * No topo da seção, ficam os títulos **"Fotos"** e **"Vídeos"** lado a lado.
+  * O botão **"+ Adicionar"** fica posicionado de forma independente, sem atrapalhar os cabeçalhos.
+  * Ao tocar diretamente nos títulos **"Fotos"** ou **"Vídeos"**, a galeria completa abre mostrando **todas** as mídias.
+* **Prévia no Perfil (Regra do 6+):** Tanto para o próprio usuário quanto para visitantes, a grade inicial mostra no máximo 6 miniaturas. A última miniatura exibe o filtro escuro com o texto "6+".
+* Ao abrir as mídias em tela cheia, existem os botões "< anterior" e "> próximo" para navegar.
 
 ### 5.3 Visualização de Fotos (perfil, álbuns e mensagens)
 
