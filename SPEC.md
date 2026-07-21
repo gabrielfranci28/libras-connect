@@ -241,12 +241,12 @@
 * Quando alguém tentar acessar um perfil com a opção de bloqueio ativada, a tela aparece desenhada como perfil privado.
 * Quando o perfil aceitar a solicitação de amizade, ele fica aberto apenas para Amigos.
 
-# 11. Configurações
+## 11. Configurações
 
 Ao clicar em **Configurações** (dentro do Perfil), abre a tela principal de ajustes do aplicativo:
 
 * **Aparência / Tema:** Alternar entre **Modo Escuro** (Dark Mode) e **Modo Claro** (Light Mode), ou seguir o Padrão do Sistema.
-* **Notificações:** Ativar ou desativar alertas de mensagens, solicitações de amizade, eventos e avisos do grupo.
+* **Notificações:** Ativar ou desativar alertas de mensagens, chamadas de vídeo, solicitações de amizade, interações e avisos de grupo.
 * **Sons do Aplicativo:** Ativar ou desativar os sons de envio de mensagem, cliques e notificações.
 * **Acessibilidade de Texto:** Ajustar o tamanho da fonte (texto normal, grande ou extra grande) para facilitar a leitura.
 * **Execução Real de Configurações:** Todas as opções da tela de Configurações devem ter funcionamento real e aplicar as alterações imediatamente no aplicativo (ex.: trocar o tema altera visualmente a tela, desativar notificações impede os alertas e alterar a acessibilidade ajusta o tamanho real dos textos de todo o sistema).
