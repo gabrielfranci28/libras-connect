@@ -133,7 +133,7 @@
   * Por padrão, a publicação aparece borrada com o botão "Clique para ver".
   * Ela só será exibida diretamente e sem borrão para os usuários que alterarem a opção em Privacidade para "Sem censura".
 
-### 6.4 Direitos de Acessibilidade
+### 7.1 Direitos de Acessibilidade
 
 * Ao apertar em "Direitos de acessibilidade", abre uma tela de soluções com:
   * **Guia de Direitos:** Informações claras sobre leis de acessibilidade e Libras.
@@ -142,7 +142,7 @@
 * **Vídeos com Intérprete de Libras:** Conteúdos em vídeo gratuitos com tradução em Libras para explicar direitos e soluções.
   * **Apoio da Comunidade:** Intérpretes voluntários podem colaborar gravando vídeos, com opção de receber apoio/gorjeta voluntária dos usuários.
 
-### 6.1 Criar Grupos
+### 7.2 Criar Grupos
 
 * Ao apertar em "Criar grupos", aparece a pergunta: "O que você busca?".
 * Abaixo, um campo para escrever (vazio ou preenchido).
@@ -151,11 +151,11 @@
     * Em grupos **abertos**, qualquer usuário pode visualizar a lista de membros do grupo.
     * Em grupos **privados**, apenas os membros participantes podem ver a lista de quem está no grupo.
 
-### 6.2 Eventos da Comunidade
+### 7.3 Eventos da Comunidade
 
 * Ao apertar em Eventos da comunidade, abre e mostra a lista com local, data e tipo de evento — como festas, encontros, reuniões e atividades em geral.
 
-### 6.3 Aulas Pagas ou Gratuitas
+### 7.4 Aulas Pagas ou Gratuitas
 
 * Ao apertar em "Aulas pagas ou gratuitas", se o usuário for fluente, ele pode criar sua própria página de aulas, definindo nome da página, valor e demais informações.
 * **Segurança e Proteção contra Golpes:**
@@ -164,24 +164,24 @@
   * **Denúncia de Conteúdo Falso:** Botão para denunciar aulas que ensinem sinais incorretos com intenção de enganar ou que apliquem golpes. Caso comprovado, o valor é reembolsado ao aluno e a página é suspensa.
 * Campo de busca com a pergunta: "O que você gostaria de buscar?".
 
-## 7. Mensagens / Chat
+## 8. Mensagens / Chat
 
-### 7.1 Comportamento da Conversa
+### 8.1 Comportamento da Conversa
 
 * As mensagens aparecem na área de conversa crescendo para baixo — cada nova mensagem é adicionada embaixo das anteriores, bem perto do campo "Escreva uma mensagem...".
 * Não deve rolar automaticamente para o topo; o foco deve ficar sempre próximo ao campo de entrada, como no Telegram ou WhatsApp.
 
-### 7.2 Envio de Mensagem
+### 8.2 Envio de Mensagem
 
 * Quando o usuário apertar "Enviar", a mensagem não deve aparecer instantaneamente.
 * Deve ter um pequeno atraso ou animação suave (ex.: a bolha "voa" ou desce devagar até o lugar), para não ficar rápido e artificial — parecendo natural, como se a mensagem estivesse sendo "colocada" na conversa.
 
-### 7.3 Indicador de Status (offline)
+### 8.3 Indicador de Status (offline)
 
 * Quando sem internet, as mensagens ficam em fila local e enviam automaticamente quando a conexão voltar.
 * Indicador visual: "Enviando..." → "Enviado" → "Lido".
 
-### 7.4 Ações do Chat
+### 8.4 Ações do Chat
 
 * Bloquear, Denunciar, Limpar a conversa.
 * Devem funcionar quando apertadas: abrir confirmação e executar a ação. Não podem ficar paradas sem resposta. 
@@ -193,38 +193,38 @@
   * O convite deve exibir as opções: **"Aceitar"** ou **"Recusar"**.
 * **Permissão de Interação:** Somente após clicar em "Aceitar", o usuário ingressa no grupo e recebe permissão para ver e escrever mensagens.
 
-### 7.5 Chat com Perfil Bloqueado
+### 8.5 Chat com Perfil Bloqueado
 
 * Quando alguém bloquear o perfil de outra pessoa, a página é desenhada como bloqueada, mostrando os avisos: "Você bloqueou" ou "Ele(a) te bloqueou".
 * O campo "Escreva uma mensagem..." também é desenhado com essa indicação de bloqueio.
 
-### 7.6 Chat com Perfil Bloqueado por Denúncias
+### 8.6 Chat com Perfil Bloqueado por Denúncias
 
 * Se o perfil foi bloqueado por receber denúncias, a página mostra o desenho de aviso de denúncia, com o texto: "Este perfil foi bloqueado por denúncias".
 * O campo "Escreva uma mensagem..." some.
 
-### 7.7 Chat com Perfil Excluído
+### 8.7 Chat com Perfil Excluído
 
 * Se o próprio usuário excluiu a conta, a página mostra o desenho de exclusão, com o texto: "Este perfil foi excluído pelo próprio usuário".
 * O campo "Escreva uma mensagem..." some.
 
-### 7.8 Indicador de Mensagem Nova
+### 8.8 Indicador de Mensagem Nova
 
 * Bolinha pequena vermelha ao lado do botão "Mensagens" quando houver mensagem nova ou não lida.
 
-### 7.9 Gestão da Lista de Conversas (Tocar e Segurar)
+### 8.9 Gestão da Lista de Conversas (Tocar e Segurar)
 
 * Ao tocar e segurar (toque longo) sobre qualquer conversa na lista de mensagens, abre um menu de opções rápidas:
   * **Fixar conversa:** Fixa o chat no topo da lista.
   * **Silenciar notificações:** Opções de tempo (ex.: 8 horas, 1 semana) ou permanentemente.
   * **Apagar conversa:** Ao clicar nesta opção, exibe janela de confirmação: *"Tem certeza que deseja apagar esta conversa?"* com os botões **Apagar** e **Cancelar**.
 
-## 8. Vídeo-chamada
+## 9. Vídeo-chamada
 
 * Quando um usuário iniciar uma chamada de vídeo, é exibida uma opção para aceitar ou recusar.
 * Quando alguém recusar, avisar: "Ele(a) recusou".
 
-## 9. Notificações
+## 9.1 Notificações
 
 * **Avisos de amizade:** Notifica quando o usuário recebe uma solicitação ou quando uma "Solicitação enviada" é aceita por outra pessoa.
 * **Interações:** Quando alguém der "Joinha", "Não joinha", comentar ou favoritar, o usuário recebe uma pequena bolinha vermelha de notificação no ícone.
