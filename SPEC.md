@@ -190,6 +190,13 @@
 
 * Bolinha pequena vermelha ao lado do botão "Mensagens" quando houver mensagem nova ou não lida.
 
+### 7.9 Gestão da Lista de Conversas (Tocar e Segurar)
+
+* Ao tocar e segurar (toque longo) sobre qualquer conversa na lista de mensagens, abre um menu de opções rápidas:
+  * **Fixar conversa:** Fixa o chat no topo da lista.
+  * **Silenciar notificações:** Opções de tempo (ex.: 8 horas, 1 semana) ou permanentemente.
+  * **Apagar conversa:** Ao clicar nesta opção, exibe janela de confirmação: *"Tem certeza que deseja apagar esta conversa?"* com os botões **Apagar** e **Cancelar**.
+
 ## 8. Vídeo-chamada
 
 * Quando um usuário iniciar uma chamada de vídeo, é exibida uma opção para aceitar ou recusar.
