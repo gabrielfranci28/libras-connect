@@ -243,6 +243,7 @@ Ao clicar em **Configurações** (dentro do Perfil), abre a tela principal de aj
 * **Notificações:** Ativar ou desativar alertas de mensagens, solicitações de amizade, eventos e avisos do grupo.
 * **Sons do Aplicativo:** Ativar ou desativar os sons de envio de mensagem, cliques e notificações.
 * **Acessibilidade de Texto:** Ajustar o tamanho da fonte (texto normal, grande ou extra grande) para facilitar a leitura.
+* **Execução Real de Configurações:** Todas as opções da tela de Configurações devem ter funcionamento real e aplicar as alterações imediatamente no aplicativo (ex.: trocar o tema altera visualmente a tela, desativar notificações impede os alertas e alterar a acessibilidade ajusta o tamanho real dos textos de todo o sistema).
 
 ## 12. Moderação e Denúncias
 
