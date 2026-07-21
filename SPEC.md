@@ -261,7 +261,9 @@
   * Funcionalidade restrita exclusivamente para contas verificadas como maiores de 18 anos.
   * Opção configurável pelo usuário: **"Com censura (borrado)"** ou **"Sem censura"**.
   * **Padrão:** Mídias sensíveis vêm borradas com o botão "Clique para ver".
-  * Se o usuário escolher "Sem censura", as mídias autorizadas para sua faixa etária serão exibidas diretamente.
+  * Se o usuário escolher "Sem censura", as mídias autorizadas para sua faixa etária serão exibidas diretamente. 
+* **Conteúdo Sensível (18+):** Álbuns de fotos ou vídeos que contenham conteúdo adulto/sensível também devem aparecer com desfoque e exibir o aviso **"Clique para ver"**; ao tocar, o conteúdo é revelado.
+* Ao abrir as mídias em tela cheia, existem os botões "< anterior" e "> próximo" para navegar.
 * **Confirmação ao Sair (Prevenção de Perda de Alterações):**
   * Se o usuário alterar qualquer configuração e tentar sair da tela sem clicar em **"Aplicar"**, o aplicativo deve exibir um aviso:
   * **Mensagem:** *"Você possui alterações não salvas. Tem certeza que deseja sair sem aplicar?"*
