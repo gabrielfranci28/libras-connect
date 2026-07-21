@@ -206,9 +206,15 @@
 ## 9. Notificações
 
 * **Avisos de amizade:** Notifica quando o usuário recebe uma solicitação ou quando uma "Solicitação enviada" é aceita por outra pessoa.
-* **Aba Notificações:** Exibe a lista de atualizações e confirmações de novas amizades.
 * **Interações:** Quando alguém der "Joinha", "Não joinha", comentar ou favoritar, o usuário recebe uma pequena bolinha vermelha de notificação no ícone.
 * **Grupos:** Na criação de grupos (com nome, quantidade de pessoas, aberto ou privado), quando um administrador aprovar ou recusar a entrada de alguém, o usuário recebe uma notificação avisando o resultado.
+## Aba Notificações
+
+* **Mensagens e Chats:** Exibe avisos quando o usuário recebe uma nova mensagem direta ou interação em tempo real.
+* **Chamadas de Vídeo:** Mostra alertas de chamadas recebidas e o registro de chamadas perdidas para retorno rápido.
+* **Avisos de Amizade:** Notifica quando o usuário recebe uma solicitação de amizade ou quando uma "Solicitação enviada" é aceita por outra pessoa.
+* **Interações:** Aponta quando alguém der "Joinha", "Não joinha", comentar ou favoritar, acionando também uma pequena bolinha vermelha de notificação no ícone.
+* **Grupos:** Exibe o resultado de avisos quando um administrador aprovar ou recusar a entrada de alguém na criação de grupos (com nome, quantidade de pessoas, aberto ou privado).
 
 ## 10. Privacidade
 
