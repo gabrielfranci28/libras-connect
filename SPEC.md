@@ -239,7 +239,7 @@ Ao clicar em **Configurações** (dentro do Perfil), abre a tela principal de aj
 ## 12. Moderação e Denúncias
 
 * Em todos os perfis, o menu de 3 pontos apresenta as opções Bloquear e Denunciar.
-* Ao confirmar uma denúncia, a moderação analisa com cuidado e remove apenas o conteúdo ou a conta de forma justa, sem injustiças.
+* Ao confirmar uma denúncia, a moderação analisa com cuidado e remove apenas conteúdos ilegais ou não autorizados. Conteúdos 18+ com o filtro de censura ativado (postados por adultos verificados) são permitidos e não serão removidos.
 * Se verificar que o perfil realmente cometeu infrações e recebeu 5 denúncias válidas, ele será excluído permanentemente.
 * Regra de segurança do chat: se alguém enviar mensagens com falta de respeito ou conteúdo proibido, e receber 5 denúncias reais validadas por moderação humana, a conta será excluída permanentemente.
 * Tudo deve funcionar corretamente, sem travar.
