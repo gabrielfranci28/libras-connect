@@ -170,7 +170,14 @@
 ### 7.4 Ações do Chat
 
 * Bloquear, Denunciar, Limpar a conversa.
-* Devem funcionar quando apertadas: abrir confirmação e executar a ação. Não podem ficar paradas sem resposta.
+* Devem funcionar quando apertadas: abrir confirmação e executar a ação. Não podem ficar paradas sem resposta. 
+### Nova Funcionalidade: Sistema de Grupos
+* **Criação via Menu:** A opção de criar grupos deve ficar acessível no menu de 3 pontos.
+* **Seleção de Participantes:** O criador do grupo escolhe as pessoas através da lista de contatos/usuários.
+* **Sistema de Convites:** 
+  * Ao finalizar a escolha, as pessoas selecionadas não entram automaticamente. Elas recebem um convite.
+  * O convite deve exibir as opções: **"Aceitar"** ou **"Recusar"**.
+* **Permissão de Interação:** Somente após clicar em "Aceitar", o usuário ingressa no grupo e recebe permissão para ver e escrever mensagens.
 
 ### 7.5 Chat com Perfil Bloqueado
 
