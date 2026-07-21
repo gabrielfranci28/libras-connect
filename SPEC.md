@@ -112,7 +112,6 @@
 * Interações nas publicações: desenhos de "Joinha" e "Não joinha", opção de comentar, desenho de favorito, possibilidade de escrever legenda abaixo da foto ou vídeo.
 * Todas as fotos, vídeos e textos publicados sempre têm um menu de 3 pontos.
 * Se alguém ensina sinais para enganar ou aplicar golpes e recebe denúncias, o conteúdo é removido.
-* A plataforma deve proteger todas as coisas e todo o conteúdo. 
 * **Publicação de Mídias e Detecção Automática (18+):**
   * Quando um usuário publicar uma foto ou vídeo contendo mídia sensível (18+), o sistema/IA deve detectar e aplicar automaticamente a tag de Mídia Sensível (censura borrada).
   * Por padrão, a publicação aparece borrada com o botão "Clique para ver".
