@@ -12,7 +12,7 @@
 
 * 100% largura × 100% altura da tela, em qualquer tela do app.
 * Sem bordas, sem espaços sobrando, sem ficar pequeno, sem cortar nada.
-* Telas de Explorar, Comunidade, Mensagens e Perfil: todas com 100% da largura e 100% da altura disponível.
+* Telas de Descobrir, Comunidade, Mensagens e Perfil: todas com 100% da largura e 100% da altura disponível.
 * Menu sempre embaixo, cabeçalho sempre no topo, encaixado certinho do começo ao fim.
 
 ### 2.2 Tema
