@@ -10,7 +10,7 @@
 6. OpenAI
 7. Cloudinary
 8. Resend
-9. Mercado Pago (Estrutura pronta - chaves serão inseridas posteriormente pelo desenvolvedor)
+9. Mercado Pago
 10. UptimeRobot
 
 ## 2. Regra Geral — Nunca Inventar
@@ -54,5 +54,5 @@ Quando faltar alguma informação, ou for necessário qualquer um dos itens acim
 
 ## 5. Rotas Relacionadas a APIs (server.js)
 
-* `app.get('/api/pix-key')` — retorna a chave Pix em formato JSON (somente backend, nunca fixa no frontend).
+* `app.get('/api/pix-key')` — retorna a chave Pix em formato JSON (somente backend, nunca fixa no frontend). (Estrutura pronta - chaves serão inseridas posteriormente pelo desenvolvedor)
 * `app.get('/ping')` — retorna apenas status 200 OK, para manter o servidor ativo via monitoramento externo (UptimeRobot). Após criar essa rota, informar a URL exata completa a ser usada no UptimeRobot.
