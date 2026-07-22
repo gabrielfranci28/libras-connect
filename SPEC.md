@@ -333,6 +333,6 @@ Ao clicar em **Configurações** (dentro do Perfil), abre a tela principal de aj
 * Limite de tamanho de arquivo: fotos máximo 10MB, vídeos máximo 50MB.
 * Fluxo de recuperação de senha via e-mail com código de verificação.
 
-### 18. Sair do Aplicativo
+## 18. Sair do Aplicativo
 
 * **Confirmação para Sair:** Quando o usuário tentar fechar ou sair do aplicativo, o sistema exibe a mensagem: **"Toque novamente para sair"**.
