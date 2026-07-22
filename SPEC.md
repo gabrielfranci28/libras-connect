@@ -223,7 +223,7 @@
   * **Silenciar notificações:** Opções de tempo (ex.: 8 horas, 1 semana) ou permanentemente.
   * **Apagar conversa:** Ao clicar nesta opção, exibe janela de confirmação: *"Tem certeza que deseja apagar esta conversa?"* com os botões **Apagar** e **Cancelar**.
 
-## 6.1 Vídeo-chamada
+### 6.1 Vídeo-chamada
 
 * Quando um usuário iniciar uma chamada de vídeo, é exibida uma opção para aceitar ou recusar.
 * Quando alguém recusar, avisar: "Ele(a) recusou".
