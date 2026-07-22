@@ -106,11 +106,7 @@
 
 * Ao clicar (dentro do Perfil), abre a tela inteira das configurações de Privacidade (ver seção 10).
 
-## 6. Solicitar conexão / Início de Conversa
-
-* Botão "Solicitar conexão": remover somente o ícone/desenho, mantendo o texto do botão.
-
-## 7. Comunidade (antes chamada "Conexões")
+## 6. Comunidade (antes chamada "Conexões")
 
 * Trocar "Conexões" para "Comunidade".
 * Ao publicar algo, aparece a pergunta: "O que você gostaria de colocar?".
@@ -131,7 +127,7 @@
   * Por padrão, a publicação aparece borrada com o botão "Clique para ver".
   * Ela só será exibida diretamente e sem borrão para os usuários que alterarem a opção em Privacidade para "Sem censura".
 
-### 7.1 Direitos de Acessibilidade
+### 6.1 Direitos de Acessibilidade
 
 * Ao apertar em "Direitos de acessibilidade", abre uma tela de soluções com:
   * **Guia de Direitos:** Informações claras sobre leis de acessibilidade e Libras.
@@ -140,7 +136,7 @@
 * **Vídeos com Intérprete de Libras:** Conteúdos em vídeo gratuitos com tradução em Libras para explicar direitos e soluções.
   * **Apoio da Comunidade:** Intérpretes voluntários podem colaborar gravando vídeos, com opção de receber apoio/gorjeta voluntária dos usuários.
 
-### 7.2 Criar Grupos
+### 6.2 Criar Grupos
 
 * Ao apertar em "Criar grupos", aparece a pergunta: "O que você busca?".
 * Abaixo, um campo para escrever (vazio ou preenchido).
@@ -149,11 +145,11 @@
     * Em grupos **abertos**, qualquer usuário pode visualizar a lista de membros do grupo.
     * Em grupos **privados**, apenas os membros participantes podem ver a lista de quem está no grupo.
 
-### 7.3 Eventos da Comunidade
+### 6.3 Eventos da Comunidade
 
 * Ao apertar em Eventos da comunidade, abre e mostra a lista com local, data e tipo de evento — como festas, encontros, reuniões e atividades em geral.
 
-### 7.4 Aulas Pagas ou Gratuitas
+### 6.4 Aulas Pagas ou Gratuitas
 
 * Ao apertar em "Aulas pagas ou gratuitas", se o usuário for fluente, ele pode criar sua própria página de aulas, definindo nome da página, valor e demais informações.
 * **Segurança e Proteção contra Golpes:**
@@ -162,9 +158,9 @@
   * **Denúncia de Conteúdo Falso:** Botão para denunciar aulas que ensinem sinais incorretos com intenção de enganar ou que apliquem golpes. Caso comprovado, o valor é reembolsado ao aluno e a página é suspensa.
 * Campo de busca com a pergunta: "O que você gostaria de buscar?".
 
-## 8. Mensagens / Chat 
+## 7. Mensagens / Chat 
 
-### 8.1 Remover:
+### 7.1 Remover:
   1. Botão "Ver perfil completo e fotos".
   2. Etiqueta "Surdo" que fica acima.
   3. Ícone de imagem que fica à esquerda do campo de mensagem.
@@ -174,22 +170,22 @@
   3. Fotos e vídeos: usar aspectRatio 1080/1350 com resizeMode "contain" — não usar tamanho fixo em pixels. Isso garante que a imagem apareça inteira em qualquer tamanho de tela, sem cortar, esticar ou diminuir.
   4. Vídeos seguem a mesma regra: exibição completa, com baixar, denunciar, ocultar e desfazer ocultar funcionais.
 
-### 8.2 Comportamento da Conversa
+### 7.2 Comportamento da Conversa
 
 * As mensagens aparecem na área de conversa crescendo para baixo — cada nova mensagem é adicionada embaixo das anteriores, bem perto do campo "Escreva uma mensagem...".
 * Não deve rolar automaticamente para o topo; o foco deve ficar sempre próximo ao campo de entrada, como no Telegram ou WhatsApp.
 
-### 8.3 Envio de Mensagem
+### 7.3 Envio de Mensagem
 
 * Quando o usuário apertar "Enviar", a mensagem não deve aparecer instantaneamente.
 * Deve ter um pequeno atraso ou animação suave (ex.: a bolha "voa" ou desce devagar até o lugar), para não ficar rápido e artificial — parecendo natural, como se a mensagem estivesse sendo "colocada" na conversa.
 
-### 8.4 Indicador de Status (offline)
+### 7.4 Indicador de Status (offline)
 
 * Quando sem internet, as mensagens ficam em fila local e enviam automaticamente quando a conexão voltar.
 * Indicador visual: "Enviando..." → "Enviado" → "Lido".
 
-### 8.5 Ações do Chat
+### 7.5 Ações do Chat
 
 * Bloquear, Denunciar, Limpar a conversa.
 * Devem funcionar quando apertadas: abrir confirmação e executar a ação. Não podem ficar paradas sem resposta. 
@@ -201,40 +197,40 @@
   * O convite deve exibir as opções: **"Aceitar"** ou **"Recusar"**.
 * **Permissão de Interação:** Somente após clicar em "Aceitar", o usuário ingressa no grupo e recebe permissão para ver e escrever mensagens.
 
-### 8.6 Chat com Perfil Bloqueado
+### 7.6 Chat com Perfil Bloqueado
 
 * Quando alguém bloquear o perfil de outra pessoa, a página é desenhada como bloqueada, mostrando os avisos: "Você bloqueou" ou "Ele(a) te bloqueou".
 * O campo "Escreva uma mensagem..." também é desenhado com essa indicação de bloqueio.
 
-### 8.7 Chat com Perfil Bloqueado por Denúncias
+### 7.7 Chat com Perfil Bloqueado por Denúncias
 
 * Se o perfil foi bloqueado por receber denúncias, a página mostra o desenho de aviso de denúncia, com o texto: "Este perfil foi bloqueado por denúncias".
 * O campo "Escreva uma mensagem..." some.
 
-### 8.8 Chat com Perfil Excluído
+### 7.8 Chat com Perfil Excluído
 
 * Se o próprio usuário excluiu a conta, a página mostra o desenho de exclusão, com o texto: "Este perfil foi excluído pelo próprio usuário".
 * O campo "Escreva uma mensagem..." some.
 
-### 8.9 Indicador de Mensagem Nova
+### 7.9 Indicador de Mensagem Nova
 
 * Bolinha pequena vermelha ao lado do botão "Mensagens" quando houver mensagem nova ou não lida.
 
-### 9 Gestão da Lista de Conversas (Tocar e Segurar)
+### 8. Gestão da Lista de Conversas (Tocar e Segurar)
 
 * Ao tocar e segurar (toque longo) sobre qualquer conversa na lista de mensagens, abre um menu de opções rápidas:
   * **Fixar conversa:** Fixa o chat no topo da lista.
   * **Silenciar notificações:** Opções de tempo (ex.: 8 horas, 1 semana) ou permanentemente.
   * **Apagar conversa:** Ao clicar nesta opção, exibe janela de confirmação: *"Tem certeza que deseja apagar esta conversa?"* com os botões **Apagar** e **Cancelar**.
 
-## 10. Vídeo-chamada
+## 8.1 Vídeo-chamada
 
 * Quando um usuário iniciar uma chamada de vídeo, é exibida uma opção para aceitar ou recusar.
 * Quando alguém recusar, avisar: "Ele(a) recusou".
 * **Tempo livre:** A chamada não possui limite de tempo.
 * **Tempo de chamada:** Quando a vídeo-chamada terminar, o tempo total de duração aparece direto no chat como uma mensagem de aviso, para que vocês saibam exatamente quanto tempo durou a conversa.
 
-## 11. Notificações
+## 10. Notificações
 
 * **Avisos de amizade:** Notifica quando o usuário recebe uma solicitação ou quando uma "Solicitação enviada" é aceita por outra pessoa.
 * **Interações:** Quando alguém der "Joinha", "Não joinha", comentar ou favoritar, o usuário recebe uma pequena bolinha vermelha de notificação no ícone.
@@ -247,7 +243,7 @@
 * **Interações:** Aponta quando alguém der "Joinha", "Não joinha", comentar ou favoritar, acionando também uma pequena bolinha vermelha de notificação no ícone.
 * **Grupos:** Exibe o resultado de avisos quando um administrador aprovar ou recusar a entrada de alguém na criação de grupos (com nome, quantidade de pessoas, aberto ou privado).
 
-## 12. Privacidade
+## 11. Privacidade
 
 * Ao clicar (dentro do Perfil), abre a tela inteira das configurações de Privacidade.
 * Opções configuráveis (Público, Amigos, Somente eu):
@@ -273,7 +269,7 @@
 * Quando alguém tentar acessar um perfil com a opção de bloqueio ativada, a tela aparece desenhada como perfil privado.
 * Quando o perfil aceitar a solicitação de amizade, ele fica aberto apenas para Amigos.
 
-## 13. Configurações
+## 12. Configurações
 
 Ao clicar em **Configurações** (dentro do Perfil), abre a tela principal de ajustes do aplicativo:
 
@@ -283,7 +279,7 @@ Ao clicar em **Configurações** (dentro do Perfil), abre a tela principal de aj
 * **Acessibilidade de Texto:** Ajustar o tamanho da fonte (texto normal, grande ou extra grande) para facilitar a leitura.
 * **Execução Real de Configurações:** Todas as opções da tela de Configurações devem ter funcionamento real e aplicar as alterações imediatamente no aplicativo (ex.: trocar o tema altera visualmente a tela, desativar notificações impede os alertas e alterar a acessibilidade ajusta o tamanho real dos textos de todo o sistema).
 
-## 14. Moderação e Denúncias
+## 13. Moderação e Denúncias
 
 * Em todos os perfis, o menu de 3 pontos apresenta as opções Bloquear e Denunciar.
 * Ao confirmar uma denúncia, a moderação analisa com cuidado e remove apenas conteúdos ilegais ou não autorizados. Conteúdos 18+ com o filtro de censura ativado (postados por adultos verificados) são permitidos e não serão removidos.
@@ -291,23 +287,23 @@ Ao clicar em **Configurações** (dentro do Perfil), abre a tela principal de aj
 * Regra de segurança do chat: se alguém enviar mensagens com falta de respeito ou conteúdo proibido, e receber 5 denúncias reais validadas por moderação humana, a conta será excluída permanentemente.
 * Tudo deve funcionar corretamente, sem travar.
 
-## 15. Pagamentos (Monetização via Pix)
+## 14. Pagamentos (Monetização via Pix)
 
-### 15.1 Regra Geral (aplica-se a todos os recursos pagos)
+### 14.1 Regra Geral (aplica-se a todos os recursos pagos)
 
 * Todo conteúdo pago fica coberto por fundo escuro/transparente até o pagamento ser confirmado.
 * Embaixo do bloqueio, botão escrito: "Pagar".
 * Abaixo do botão, texto fixo: "Pagamento só via Pix para Libras Connect".
 * Quando o Pix é confirmado, libera o acesso automaticamente (isso exigirá integração com API de pagamento real no futuro).
 
-### 15.2 Pacote Tudo Liberado
+### 14.2 Pacote Tudo Liberado
 
 * Exibido no topo de todas as telas de pagamento.
 * Valor: R$ 38,00.
 * No pacote, o usuário paga o mesmo valor e tem TUDO liberado por 2 meses inteiros, sem precisar comprar um por um.
 * Até pagar o pacote, todos os itens individuais ficam bloqueados.
 
-### 15.3 Recursos Individuais (caso não queira o pacote)
+### 14.3 Recursos Individuais (caso não queira o pacote)
 
 1. Destaque no topo das buscas — R$ 3,00 por 7 dias.
 2. Badge verificado dourado "Perfil real Libras Connect" — R$ 10,00 vitalício.
@@ -318,13 +314,13 @@ Ao clicar em **Configurações** (dentro do Perfil), abre a tela principal de aj
 7. Desbloquear álbum de vídeos em Libras de outra pessoa — R$ 4,00 por álbum.
 8. Verificação de foto real por IA — R$ 3,00 vitalício.
 
-## 16. Inteligência Artificial (OpenAI)
+## 15. Inteligência Artificial (OpenAI)
 
 * Whisper: áudio → texto.
 * GPT-4o: vídeo → texto.
 * Atenção: a função de tradução (Libras ↔ Português) é um experimento em beta e pode conter erros. O app deve exibir na tela do usuário o aviso: "Funciona como experimento, pode conter erros na tradução."
 
-## 17. Regras Técnicas Gerais
+## 16. Regras Técnicas Gerais
 
 * Banco de dados simples para usuários, pagamentos e logs.
 * Fotos e vídeos armazenados em Cloudinary.
@@ -333,6 +329,6 @@ Ao clicar em **Configurações** (dentro do Perfil), abre a tela principal de aj
 * Limite de tamanho de arquivo: fotos máximo 10MB, vídeos máximo 50MB.
 * Fluxo de recuperação de senha via e-mail com código de verificação.
 
-## 18. Sair do Aplicativo
+## 17. Sair do Aplicativo
 
 * **Confirmação para Sair:** Quando o usuário tentar fechar ou sair do aplicativo, o sistema exibe a mensagem: **"Toque novamente para sair"**.
