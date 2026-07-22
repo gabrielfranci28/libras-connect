@@ -235,7 +235,8 @@
 * **Avisos de amizade:** Notifica quando o usuário recebe uma solicitação ou quando uma "Solicitação enviada" é aceita por outra pessoa.
 * **Interações:** Quando alguém der "Joinha", "Não joinha", comentar ou favoritar, o usuário recebe uma pequena bolinha vermelha de notificação no ícone.
 * **Grupos:** Na criação de grupos (com nome, quantidade de pessoas, aberto ou privado), quando um administrador aprovar ou recusar a entrada de alguém, o usuário recebe uma notificação avisando o resultado.
-## Aba Notificações
+
+## 8. Aba Notificações
 
 * **Mensagens e Chats:** Exibe avisos quando o usuário recebe uma nova mensagem direta ou interação em tempo real.
 * **Chamadas de Vídeo:** Mostra alertas de chamadas recebidas e o registro de chamadas perdidas para retorno rápido.
@@ -243,7 +244,7 @@
 * **Interações:** Aponta quando alguém der "Joinha", "Não joinha", comentar ou favoritar, acionando também uma pequena bolinha vermelha de notificação no ícone.
 * **Grupos:** Exibe o resultado de avisos quando um administrador aprovar ou recusar a entrada de alguém na criação de grupos (com nome, quantidade de pessoas, aberto ou privado).
 
-## 8. Privacidade
+## 9. Privacidade
 
 * Ao clicar (dentro do Perfil), abre a tela inteira das configurações de Privacidade.
 * Opções configuráveis (Público, Amigos, Somente eu):
@@ -269,7 +270,7 @@
 * Quando alguém tentar acessar um perfil com a opção de bloqueio ativada, a tela aparece desenhada como perfil privado.
 * Quando o perfil aceitar a solicitação de amizade, ele fica aberto apenas para Amigos.
 
-## 9. Configurações
+## 10. Configurações
 
 Ao clicar em **Configurações** (dentro do Perfil), abre a tela principal de ajustes do aplicativo:
 
@@ -279,7 +280,7 @@ Ao clicar em **Configurações** (dentro do Perfil), abre a tela principal de aj
 * **Acessibilidade de Texto:** Ajustar o tamanho da fonte (texto normal, grande ou extra grande) para facilitar a leitura.
 * **Execução Real de Configurações:** Todas as opções da tela de Configurações devem ter funcionamento real e aplicar as alterações imediatamente no aplicativo (ex.: trocar o tema altera visualmente a tela, desativar notificações impede os alertas e alterar a acessibilidade ajusta o tamanho real dos textos de todo o sistema).
 
-## 10. Moderação e Denúncias
+## 11. Moderação e Denúncias
 
 * Em todos os perfis, o menu de 3 pontos apresenta as opções Bloquear e Denunciar.
 * Ao confirmar uma denúncia, a moderação analisa com cuidado e remove apenas conteúdos ilegais ou não autorizados. Conteúdos 18+ com o filtro de censura ativado (postados por adultos verificados) são permitidos e não serão removidos.
@@ -287,23 +288,23 @@ Ao clicar em **Configurações** (dentro do Perfil), abre a tela principal de aj
 * Regra de segurança do chat: se alguém enviar mensagens com falta de respeito ou conteúdo proibido, e receber 5 denúncias reais validadas por moderação humana, a conta será excluída permanentemente.
 * Tudo deve funcionar corretamente, sem travar.
 
-## 11. Pagamentos (Monetização via Pix)
+## 12. Pagamentos (Monetização via Pix)
 
-### 11.1 Regra Geral (aplica-se a todos os recursos pagos)
+### 12.1 Regra Geral (aplica-se a todos os recursos pagos)
 
 * Todo conteúdo pago fica coberto por fundo escuro/transparente até o pagamento ser confirmado.
 * Embaixo do bloqueio, botão escrito: "Pagar".
 * Abaixo do botão, texto fixo: "Pagamento só via Pix para Libras Connect".
 * Quando o Pix é confirmado, libera o acesso automaticamente (isso exigirá integração com API de pagamento real no futuro).
 
-### 11.2 Pacote Tudo Liberado
+### 12.2 Pacote Tudo Liberado
 
 * Exibido no topo de todas as telas de pagamento.
 * Valor: R$ 38,00.
 * No pacote, o usuário paga o mesmo valor e tem TUDO liberado por 2 meses inteiros, sem precisar comprar um por um.
 * Até pagar o pacote, todos os itens individuais ficam bloqueados.
 
-### 11.3 Recursos Individuais (caso não queira o pacote)
+### 12.3 Recursos Individuais (caso não queira o pacote)
 
 1. Destaque no topo das buscas — R$ 3,00 por 7 dias.
 2. Badge verificado dourado "Perfil real Libras Connect" — R$ 10,00 vitalício.
@@ -314,13 +315,13 @@ Ao clicar em **Configurações** (dentro do Perfil), abre a tela principal de aj
 7. Desbloquear álbum de vídeos em Libras de outra pessoa — R$ 4,00 por álbum.
 8. Verificação de foto real por IA — R$ 3,00 vitalício.
 
-## 12. Inteligência Artificial (OpenAI)
+## 13. Inteligência Artificial (OpenAI)
 
 * Whisper: áudio → texto.
 * GPT-4o: vídeo → texto.
 * Atenção: a função de tradução (Libras ↔ Português) é um experimento em beta e pode conter erros. O app deve exibir na tela do usuário o aviso: "Funciona como experimento, pode conter erros na tradução."
 
-## 13. Regras Técnicas Gerais
+## 14. Regras Técnicas Gerais
 
 * Banco de dados simples para usuários, pagamentos e logs.
 * Fotos e vídeos armazenados em Cloudinary.
@@ -329,6 +330,6 @@ Ao clicar em **Configurações** (dentro do Perfil), abre a tela principal de aj
 * Limite de tamanho de arquivo: fotos máximo 10MB, vídeos máximo 50MB.
 * Fluxo de recuperação de senha via e-mail com código de verificação.
 
-## 14. Sair do Aplicativo
+## 15. Sair do Aplicativo
 
 * **Confirmação para Sair:** Quando o usuário tentar fechar ou sair do aplicativo, o sistema exibe a mensagem: **"Toque novamente para sair"**.
