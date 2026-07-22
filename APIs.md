@@ -10,7 +10,7 @@
 6. OpenAI
 7. Cloudinary
 8. Resend
-9. Mercado Pago
+9. Mercado Pago (Estrutura pronta - chaves serão inseridas posteriormente pelo desenvolvedor)
 10. UptimeRobot
 
 ## 2. Regra Geral — Nunca Inventar
