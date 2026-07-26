@@ -197,18 +197,22 @@
   * O convite deve exibir as opções: **"Aceitar"** ou **"Recusar"**.
 * **Permissão de Interação:** Somente após clicar em "Aceitar", o usuário ingressa no grupo e recebe permissão para ver e escrever mensagens.
 
-### 5.6 Chat com Perfil Bloqueado
+### 5.6 Chat com Perfil Bloqueado 
 
+
+* Foto de perfil: A foto do usuário é substituída pela ilustração/ícone de perfil bloqueado.
 * Quando alguém bloquear o perfil de outra pessoa, a página é desenhada como bloqueada, mostrando os avisos: "Você bloqueou" ou "Ele(a) te bloqueou".
 * O campo "Escreva uma mensagem..." também é desenhado com essa indicação de bloqueio.
 
 ### 5.7 Chat com Perfil Bloqueado por Denúncias
 
+* Foto de perfil: A foto do usuário é substituída pela ilustração/ícone de perfil denunciado.
 * Se o perfil foi bloqueado por receber denúncias, a página mostra o desenho de aviso de denúncia, com o texto: "Este perfil foi bloqueado por denúncias".
 * O campo "Escreva uma mensagem..." some.
 
 ### 5.8 Chat com Perfil Excluído
 
+* Foto de perfil: A foto do usuário é substituída pela ilustração/ícone de perfil excluído.
 * Se o próprio usuário excluiu a conta, a página mostra o desenho de exclusão, com o texto: "Este perfil foi excluído pelo próprio usuário".
 * O campo "Escreva uma mensagem..." some.
 
