@@ -57,7 +57,6 @@ Quando faltar alguma informação, ou for necessário qualquer um dos itens acim
 * `app.get('/api/pix-key')` — retorna a chave Pix em formato JSON (somente backend, nunca fixa no frontend). (Estrutura pronta - chaves serão inseridas posteriormente pelo desenvolvedor)
 * `app.get('/ping')` — retorna apenas status 200 OK, para manter o servidor ativo via monitoramento externo (UptimeRobot). Após criar essa rota, informar a URL exata completa a ser usada no UptimeRobot. 
 
-json
 {
   "expo": {
     "name": "Libras Connect",
@@ -93,4 +92,3 @@ json
     ]
   }
 }
-
