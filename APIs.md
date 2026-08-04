@@ -55,4 +55,42 @@ Quando faltar alguma informação, ou for necessário qualquer um dos itens acim
 ## 5. Rotas Relacionadas a APIs (server.js)
 
 * `app.get('/api/pix-key')` — retorna a chave Pix em formato JSON (somente backend, nunca fixa no frontend). (Estrutura pronta - chaves serão inseridas posteriormente pelo desenvolvedor)
-* `app.get('/ping')` — retorna apenas status 200 OK, para manter o servidor ativo via monitoramento externo (UptimeRobot). Após criar essa rota, informar a URL exata completa a ser usada no UptimeRobot.
+* `app.get('/ping')` — retorna apenas status 200 OK, para manter o servidor ativo via monitoramento externo (UptimeRobot). Após criar essa rota, informar a URL exata completa a ser usada no UptimeRobot. 
+
+json
+{
+  "expo": {
+    "name": "Libras Connect",
+    "slug": "libras-connect",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.seunome.librasconnect"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.seunome.librasconnect"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "plugins": [
+      "expo-camera"
+    ]
+  }
+}
+
